@@ -34,3 +34,12 @@
 	background: #7D8130;
 	background-image: linear-gradient(to bottom left, #27ae60 0%, #27ae60 50%, #d35400 50%)
 }
+
+.tag-warning {
+	font-weight: bold;
+	color: red;
+}
+
+.tag-deprecated {
+	color: red;
+}
